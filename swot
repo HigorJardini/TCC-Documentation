@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T22:42:42.203Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.0.0" etag="oKjZxcLaM5phkf0rXkum" type="github"><diagram id="hSdKZts9agpMXTgxftnp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-08T23:48:17.009Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="OuC4aSb27WAAfGLnsyam" version="17.0.0" type="github">
+  <diagram id="hSdKZts9agpMXTgxftnp" name="Page-1">
+    <mxGraphModel dx="1191" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-4" value="&lt;h1&gt;&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;SWOT&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-13" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(23 , 25 , 35) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 500 ; text-align: left ; background-color: rgb(245 , 248 , 255)&quot;&gt;Strengthts&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="160" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-14" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(23 , 25 , 35) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 500 ; text-align: left ; background-color: rgb(245 , 248 , 255)&quot;&gt;Weaknesses&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="600" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-15" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(23 , 25 , 35) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 500 ; text-align: left ; background-color: rgb(245 , 248 , 255)&quot;&gt;Opportunities&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-16" value="&lt;h1 style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(23 , 25 , 35) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 500 ; text-align: left ; background-color: rgb(245 , 248 , 255)&quot;&gt;Threats&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-17" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Google Maps&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.1;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipXlhK9uBFPvr0PalsGL-17" target="ipXlhK9uBFPvr0PalsGL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+              <mxPoint x="560" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-21" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Acessibilidade&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ipXlhK9uBFPvr0PalsGL-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="200" />
+              <mxPoint x="120" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-23" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Processamento idependente&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-26" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Processo de busca de endereços para aplicativos de Delivery&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipXlhK9uBFPvr0PalsGL-26" target="ipXlhK9uBFPvr0PalsGL-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="450.01" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="435" />
+              <mxPoint x="120" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-30" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Acesso tercerizado de Informação&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ipXlhK9uBFPvr0PalsGL-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-33" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Auto-complete dos navegadores&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipXlhK9uBFPvr0PalsGL-34" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="480" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
